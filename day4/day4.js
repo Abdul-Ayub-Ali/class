@@ -1,17 +1,11 @@
-// 5 + 5 = 10 // expression
-// assignment operator
-var a = 'rafiyul'
+// if (Infinity) 
+//     console.log("A"); else console.log("B");
 
-
-// arithmetic operator
-
-//+ , - , * , / , % , **
-
-console.log(5%2);
-
-// comparison operator
-// logical operator
-// ternary operator
-// unary operator
-// type operator
-// string operator
+// if (-1) console.log("A"); else console.log("B");
+//  if (!!"hello") console.log("A"); else console.log("B");
+ //if (!0) console.log("A"); else console.log("B");
+// console.log(false + 1);
+// console.log(null + 1);
+// console.log(undefined + 1);
+// console.log([] + []);
+// console.log("" + 1);
